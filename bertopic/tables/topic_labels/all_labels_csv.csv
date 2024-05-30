@@ -1,0 +1,38 @@
+﻿Topic id;Goldlabel;GPT label;Annotator 1;Annotator 2
+0;Auto;Automarken;Automesse;E-Mobilität
+1;Verkehrsunfall;Verkehrsunfälle;Verkehrsunfall;Unfallbeschreibung
+2;Öffentlicher Verkehr;Reisen;Angebot der SBB;Schweizer Reisebeschreibung
+3;Luftfahrt;Luftverkehrsgesellschaften;Flugplan;Flugverkehr
+4;Politik Schweiz;Parteien;Wahlhochrechnung;Politik
+5;Politik International;Länder;internationale Beziehungen;Russisch-Amerikanische Politik
+6;Gerichtsverhandlungen;Justiz;Gerichtsurteil;Gerichtsurteil
+7;Kriminalität;Kriminalität;Festnahme nach Überfall;Beschreibung Diebstahl
+8;Unwetter;Wetterlage;Wetterbericht;Wetternachrichten
+9;?;Verkehrstechnologie;Errungenschaften;Adjektive
+10;Brand;Verbrechen;Ermittlung Brandursache;Brandstiftung
+11;Verkehrskontrolle / Raser;Verkehrssicherheit;Schweizer Verkehrsgesetz;Verkehrskontrolle
+12;Verkehrsunfall;Verkehrsunfallursachen;Autounfall;Unfallbeschreibung
+13;Parkplätze;Verkehrsmittel;Planung Verkehrsweg;Vorschlag SP
+14;Schule / Schulweg;Altersgruppen;übergang Erwachsenenalter;Altersunterschied
+15;Tunnel;Verkehrstunnel;Gotthardtunnel;Gotthard Röhre
+16;Wirtschaft;Verkehrswesen;Grenzbeziehungen;Schweizer Deutsche Wirtschaftsbeziehungen
+17;Sport;Sportarten;Marathonlauf;Olympia Rangliste
+18;Unfallstatistik;Verkehrsunfälle;Verkehrsstatistik;Unfallstatistik
+19;Verkehrspolitik;Verkehrspolitik;Strassenausbau;Politik Automobilverkehr
+20;?;Politik;Mediensprecher;Politikbetrieb
+21;Tiere;Unfälle;Notfallplan Kita;Kindergefahren
+22;Motorradunfall;Verkehrsunfälle;Verkehrsunfall;Verkehrsunfall
+23;Brücken;Brücken;Brückenbau;Behelfsbrücke
+24;Formel 1;Formel 1;Formel 1;Formel1 Rennen
+25;Finanzpolitik;Parteien;Haushaltsdebatte;Finanzverhandlungen Parlament
+26;EU-Abkommen;Schweizerische Politik;bilaterales Abkommen;Bilaterale Verhandlungen
+27;Kultur / Veranstaltungen;Kunstgeschichte;Kunstszene;Kultur
+28;Tempolimit;Stadtplanung;Städteplanung;Verkehrsberuhigung
+29;Velo;Verkehrssicherheit;Fahrradroute;sicherer Veloverkehr
+30;Digitale Technologien;Technologie;online-Erreichbarkeit;neue Medien
+31;Streiks;Arbeitskampf;Streik;Streik
+32;China;Politik;internationaler Wettkampf;Chinapolitik
+33;Busunfall;Verkehrsunfälle;Katastrophe;Pressemitteilung Unfall
+34;Pandemie;Pandemie;Pandemie;Medizinische Mitteilung
+35;Strassenbau;Verkehrspolitik;kantonale Verkehrsplanung;Kantonale Verkehrspolitik
+36;Mobilität für Menschen mit Behinderungen;Barrierefreiheit;Zugang für alle;behindertengerecht
